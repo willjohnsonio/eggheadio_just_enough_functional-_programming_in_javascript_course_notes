@@ -32,12 +32,6 @@ const withCount = fn => {
 }
 ```
 
-
-
-
-# Personal Take
-Nothing really this course get more clear and concise as it moves on
-
 # Resources
 [Kyle Shevlin Blog Post On Higher Order Functions](https://kyleshevlin.com/just-enough-fp-higher-order-functions)
 
